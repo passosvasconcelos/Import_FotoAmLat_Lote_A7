@@ -6,5 +6,4 @@ Script para importar fotos de amostras laterais em lote no AnaSeTe 9.1
 
 3 - Iniciar
 
-As fotos são codificadas e copiadas para a pasta do projeto
-o arquivo .a7 é atualizado com adição de trilha e referências das fotos
+As fotos são codificadas e copiadas para a pasta do projeto e o arquivo .a7 é atualizado com adição de trilha e referências das fotos
