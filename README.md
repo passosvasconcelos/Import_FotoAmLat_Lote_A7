@@ -1,4 +1,5 @@
-Script para importar fotos de amostras laterais em lote no AnaSeTe 9.1.
+Script para importar fotos de amostras laterais em lote no AnaSeTe 9.1
+
 1 - seleciona o a7
 2 - seleciona as fotos
 3 - Iniciar
